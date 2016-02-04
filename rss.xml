@@ -2,14 +2,22 @@
     <channel>
         <title><![CDATA[Ezeknek... jó lesz]]></title>
         <description><![CDATA[Ezeknek... jó lesz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ezeknekjolesz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 15:07:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 15:07:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ezeknekjolesz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here comes the sun]]></title>
+            <description><![CDATA[<article><h1>Here comes the sun</h1><p>Igen csak nyögvenyelősen, de lassacskán úgy tűnik, sikerül kezdenem valamit azzal a sokaktól kapott feladattal, hogy dokumentáljam az itteni életemet, vezessek blogot vagy ehhez hasonló.
+A szabadidőm elég limitált, nem elég, hogy napi 9-10 órát dolgozom, de szombaton is be kell jönni egy fél - esetenként egész - napra, megfejelve ideális esetben napi másfél, rosszabban három órányi vezetéssel. A munka változó mértékben pörgős - ezt most például munkaidőben írom, pssszt -, de a fentiek összeadva éppen eléggé kimerítik az embert ahhoz, hogy esténként már ne legyen ereje "tollat" ragadni.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc95d4748f8af05f31311c81e99137e96d54c6c5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ezeknekjolesz/here-comes-the-sun/index.html</link>
+            <guid isPermaLink="false">271b9552-57da-419d-be84-b8794725f680</guid>
+            <pubDate>Thu, 04 Feb 2016 15:07:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ghána, Vágási Feri, természetes és mesterséges intelligenciák]]></title>
-            <description><![CDATA[<article><h1>Ghána, Vágási Feri, természetes és mesterséges intelligenciák</h1><p>Üdvözlet minden ezt olvasó személynek és/vagy hiperintelligens bébilajhárnak! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e59303c5c656e76531ac508780d26ba334f2499.jpg"></article>]]></description>
-            <link>undefinedghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia/index.html</link>
+            <description><![CDATA[<article><h1>Ghána, Vágási Feri, természetes és mesterséges intelligenciák</h1><p>Üdvözlet minden ezt olvasó személynek és/vagy hiperintelligens bébilajhárnak! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdf89566b3a66d0cf5ba5cb16d2e3e7586391c66.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ezeknekjolesz/ghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia/index.html</link>
             <guid isPermaLink="false">3df6c882-7926-4c4e-9f66-a00e7992b38d</guid>
             <pubDate>Thu, 04 Feb 2016 15:07:25 GMT</pubDate>
         </item>
