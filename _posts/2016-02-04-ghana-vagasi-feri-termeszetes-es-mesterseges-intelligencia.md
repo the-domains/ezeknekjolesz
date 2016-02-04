@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T15:07:25.815Z'
-dateModified: '2016-02-04T13:27:19.691Z'
+datePublished: '2016-02-04T15:32:27.838Z'
+dateModified: '2016-02-04T15:32:17.854Z'
 title: 'Ghána, Vágási Feri, természetes és mesterséges intelligenciák'
 author: []
+sourcePath: _posts/2016-02-04-ghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-ghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia.md
-published: true
 url: ghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia/index.html
 _type: Article
 
@@ -36,12 +36,9 @@ De vissza az oldalhoz, amiben a legjobb - illetve egyelőre a legrosszabb is, mi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b076ae8-9f75-459a-a698-9df4c016aae3.gif)
 
 Hát nem szuper?  
-Egyfelől, dehogynem, ezért regisztráltam rá jó előre, majdnem napra pontosan egy éve. Ezzel benne vagyok az első pár, na jó, 20 ezer emberben, aki élesben is tesztelheti ezt. Magyar nyelven pedig könnyen lehet, hogy dobogó körüli hely is megvan.  
-Másrészről viszont a készítők elmondása és az első tapasztalatok alapján AI-t létrehozni nem könnyű mulatság, még ha annak tudása "csak" holmi webdizájnolásra korlátozódik is. Ezért az oldal jelenlegi kinézetétől még senkinek sem fog tátva maradni a szája, sőt. Könnyen lehet ennél szebbet, jobbat készíteni nem sokkal több energiabefektetés árán templatekből vagy egyszerű blogmotorokkal is akár.
+Egyfelől, dehogynem, ezért regisztráltam rá jó előre, majdnem napra pontosan egy éve. Ezzel benne vagyok az első pár, na jó, 20 ezer emberben, aki élesben is tesztelheti ezt. Magyar nyelven pedig könnyen lehet, hogy dobogó körüli hely is megvan. Másrészről viszont a készítők elmondása és az első tapasztalatok alapján AI-t létrehozni nem könnyű mulatság, még ha annak tudása "csak" holmi webdizájnolásra korlátozódik is. Ezért az oldal jelenlegi kinézetétől még senkinek sem fog tátva maradni a szája, sőt. Könnyen lehet ennél szebbet, jobbat készíteni nem sokkal több energiabefektetés árán templatekből vagy egyszerű blogmotorokkal is akár.
 
-Viszont ami jelenleg kész van, azért nekem tényleg csak a kisujjamat kellett megmozdítanom, és milyen jópofa már, hogy egy AI készíti a weboldalamat. _Ugyehogyugye_.  
-Továbbá bőven van még ebben potenciál. Remélem, a fejlesztőknek egyre jobban sikerül majd kiaknázniuk azt.  
-Addig is én abból próbálok főzni a virtuális kis barátom segítségével, amim van. Meglátjuk, mi sül ki belőle, az első érdemi posztot már lehet is fogyasztani egyel lejjebb a vissza után.
+Viszont ami jelenleg kész van, azért nekem tényleg csak a kisujjamat kellett megmozdítanom, és milyen jópofa már, hogy egy AI készíti a weboldalamat. _Naugyehogyugye_. Továbbá bőven van még ebben potenciál. Remélem, a fejlesztőknek egyre jobban sikerül majd kiaknázniuk azt. Addig is én abból próbálok főzni a virtuális kis barátom segítségével, amim van. Meglátjuk, mi sül ki belőle, az első érdemi posztot már lehet is fogyasztani egyel lejjebb a vissza után.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6463560-96da-40d3-abf3-d4205e4e4894.jpg)
 
 Végezetül pedig rakok ide egy intelligens - kicsit hipszter - bébilajhárt, hogy legalább az ő szimpátiájukat visszanyerjem valamilyen mértékben.  
