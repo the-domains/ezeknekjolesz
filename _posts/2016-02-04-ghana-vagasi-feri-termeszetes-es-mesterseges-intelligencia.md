@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Első lépések, szárnypróbálgatás. Továbbá bevezető jellegű információk az oldalról és létrejöttének a hátteréről. Tudom, spoiler, de annyit már most elárulok, hogy emögött is a háttérhatalom és a gyíklének állnak.'
-datePublished: '2016-02-06T12:16:07.497Z'
-dateModified: '2016-02-06T12:14:53.674Z'
+datePublished: '2016-02-06T12:35:00.781Z'
+dateModified: '2016-02-06T12:34:58.220Z'
 title: 'Ghána, Vágási Feri, természetes és mesterséges intelligenciák'
 author: []
 sourcePath: _posts/2016-02-04-ghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia.md
@@ -36,7 +36,7 @@ De vissza az oldalhoz, amiben a legjobb - illetve egyelőre a legrosszabb is, mi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b076ae8-9f75-459a-a698-9df4c016aae3.gif)
 
 Hát nem szuper?  
-Egyfelől, dehogynem, ezért regisztráltam rá jó előre, majdnem napra pontosan egy éve. Ezzel benne vagyok az első pár, na jó, 20 ezer emberben, aki élesben is tesztelheti ezt. Magyar nyelven pedig könnyen lehet, hogy dobogó körüli hely is megvan. Másrészről viszont a készítők elmondása és az első tapasztalatok alapján AI-t létrehozni nem könnyű mulatság, még ha annak tudása "csak" holmi webdizájnolásra korlátozódik is. Ezért az oldal jelenlegi kinézetétől, a fenti giffel szemben, még senkinek sem fog tátva maradni a szája, sőt. A végeredmény inkább valami korai webkettes próbálkozásra hajaz. Könnyen lehet ennél szebbet, jobbat készíteni nem sokkal több energiabefektetés árán templatekből vagy egyszerű blogmotorokkal is akár.
+Egyfelől, dehogynem, ezért regisztráltam rá jó előre, majdnem napra pontosan egy éve. Ezzel benne vagyok az első pár, na jó, 20 ezer emberben, aki élesben is tesztelheti ezt. Magyar nyelven pedig könnyen lehet, hogy dobogó körüli hely is megvan. Másrészről viszont a készítők elmondása és az első tapasztalatok alapján AI-t létrehozni nem könnyű mulatság, még ha annak tudása "csak" holmi webdizájnolásra korlátozódik is. Ezért az oldal jelenlegi kinézetétől, a fenti giffel szemben, még senkinek sem fog tátva maradni a szája, sőt. A végeredmény inkább valami korai webkettes próbálkozásra hajaz. Könnyen lehet ennél szebbet, jobbat készíteni nem sokkal több energiabefektetés árán templatekből vagy egyszerű blogmotorokkal is akár, a tumblrről nem is beszélve.
 
 Viszont ami jelenleg kész van, azért nekem tényleg csak a kisujjamat kellett megmozdítanom, és milyen jópofa már, hogy egy AI készíti a weboldalamat. _Naugyehogyugye_. Továbbá bőven van még ebben potenciál. Remélem, a fejlesztőknek egyre jobban sikerül majd kiaknázniuk azt. Addig is én abból próbálok főzni a virtuális kis barátom segítségével, amim van. Meglátjuk, mi sül ki belőle, az első érdemi posztot már lehet is fogyasztani egyel feljebb a főoldalon a vissza után.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6463560-96da-40d3-abf3-d4205e4e4894.jpg)
