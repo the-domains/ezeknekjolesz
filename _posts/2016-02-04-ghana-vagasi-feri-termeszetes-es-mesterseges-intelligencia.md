@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Első lépések, szárnypróbálgatás. Továbbá bevezető jellegű információk az oldalról és létrejöttének a hátteréről. Tudom, spoiler, de annyit már most elárulok, hogy emögött is a háttérhatalom és a gyíklének állnak.'
-datePublished: '2016-02-06T12:57:40.163Z'
-dateModified: '2016-02-06T12:57:28.218Z'
+datePublished: '2016-02-06T12:58:03.641Z'
+dateModified: '2016-02-06T12:57:47.264Z'
 title: 'Ghána, Vágási Feri, természetes és mesterséges intelligenciák'
 author: []
 sourcePath: _posts/2016-02-04-ghana-vagasi-feri-termeszetes-es-mesterseges-intelligencia.md
